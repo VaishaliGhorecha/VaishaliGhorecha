@@ -50,7 +50,7 @@
 <hr />
 
 <h2>📈 GitHub By The Numbers</h2>
-<img src="assets/contribution-graph.png" />
+<img src="assets/Vaishali Ghorecha's contribution-graph.png" />
 
 
 <ul>
