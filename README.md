@@ -53,14 +53,6 @@
 <img src="assets/Vaishali Ghorecha's Contribution Graph.png" />
 
 
-<ul>
-  <li>👀 Profile Views</li>
-  <li>📊 Activity Graph</li>
-
-
-
-</ul>
-
 <hr />
 
 <h2>💬 Let’s Connect</h2>
