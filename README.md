@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I am Vaishali Ghorecha </h1>
 
 <h3 align="center">
- 🧠 Data Scientist | 📊 Data Analyst | ⚡ Business Intelligence | 🧩 Business Analyst
+ 🧠 Data Scientist | 📊 Data Analyst | ⚡ Business Intelligence | 🧩 Power BI Developer
 </h3>
            
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+into+Actionable+Insights!;Analytics+%7C+Visualization+%7C+Machine+Learning+%7C+SQL+%7C+PowerBI;Always+Learning+%7C+Always+Building+%7C+Always+Sharing!" />
 </p>
 <h2>🌟 About Me</h2>
-I am a Data Scientist and Data Analyst with hands-on experience in Python, SQL, Power BI, and Machine Learning.  
+I am a Data Scientist and Data Analyst with 3 years hands-on experience in Python, SQL, Power BI, Advanced Excel, Tableau, and Machine Learning.  
 I specialize in transforming raw data into meaningful insights through analytics, dashboards, and predictive models. 
 <br></br>
 <ul>
@@ -26,7 +26,7 @@ I specialize in transforming raw data into meaningful insights through analytics
 <ul>
   <li>📊 <b>Interactive Dashboards:</b> Power BI, Tableau, MS Excel</li>
   <li>🏆 <b>Machine Learning Projects:</b> Predictions, Metrics, Hyperparameter Tunning </li>
-  <li>🔄 <b>Automations:</b> SQL + Python for Smart Workflows</li>
+  <li>🔄 <b>Automations:</b> Excel + SQL + Python for Smart Workflows</li>
   <li>🔍 <b>Data Pipelines:</b> ETL, Data Wrangling, Model Development</li>
   <li>🤖 <b>ML Experiments:</b> AI insights for business</li>
 </ul>
@@ -41,12 +41,14 @@ I specialize in transforming raw data into meaningful insights through analytics
 </p>
 
 <ul>
-  <li><b>Programing Languages :</b> Python | SQL </li>
-  <li><b>Databases :</b> MySQL | PostgreSQL | SQL Server</li>
-  <li><b>Visualization :</b> Power BI | Tableau | MS Excel | Google Sheet | Matplotlib | Seaborn</li>
-  <li><b>Data Handling :</b> Pandas | NumPy | ETL Pipelines</li>
+  <li><b>Python :</b> Pandas | NumPy | Matplotlib | Seaborn | Predictive Modelling | Machine Learning Algorithms (Supervised & Unsupervised ML) | Feature Engineering, Feature Normalization, Scikit Learn</li>
+  <li><b>Databases :</b> Aggregate Functions | CTEs | Window Functions | Stored Procedures | Query Optimization — SQL Server, MySQL, PostgreSQLr</li>
+  <li><b>BI Tool:</b> Power BI | Tableau | Google Looker Studio </li>
+  <li><b>Excel & VBA :</b> Pivot Tables | VLOOKUP | INDEX | MATCH | Macro Automation | Reporting | KPIs.</li>
   <li><b>Machine Learning :</b> Scikit learn | Supervised & Unsupervised Machine Learning, Statistics </li>
+  <li><b>Analytics :</b> A/B Testing, Cohort Analysis, Customer Segmentation, Root Cause Analysis, MIS Reporting, Predictive Analytics
   <li><b>Tools :</b> VS Code | Jupyter Notebook | Kaggle | Pycharm</li>
+  <li><b>CRM & ERP Platforms :</b> Microsoft Dynamic 365 | URVA CRM | Oracle ERP </li>
 </ul>
 
 
@@ -57,14 +59,14 @@ I specialize in transforming raw data into meaningful insights through analytics
 <h2>🤝 Let's Collaborate</h2>
 💼 Currently Seeking Opportunities
 <br></br>
-I'm actively looking for roles in:
+I am actively looking for roles in:
 <br></br>
 <ul>
-  <li><b> Data Analyst positions </li>
-  <li><b>Data Scientist position</li>
-  <li><b> Business Intelligence Analyst/Developer roles</li>
-  <li><b> Power BI Developer opportunities</li
-  <li><b>Business Analyst positions </li>
+  <li><b> Data Analyst </li>
+  <li><b>Data Scientist </li>
+  <li><b> Business Intelligence Analyst</li>
+  <li><b> Power BI Developer</li
+  <li><b>Business Analyst </li>
   
 </ul>
 <hr />
