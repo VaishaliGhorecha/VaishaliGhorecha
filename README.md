@@ -64,9 +64,10 @@ I am actively looking for roles in:
 <ul>
   <li><b> Data Analyst </li>
   <li><b> Data Scientist </li>
-  <li><b> Business Intelligence Analyst</li>
-  <li><b> Power BI Developer</li
+  <li><b> Business Intelligence Analyst </li>
+  <li><b> Power BI Developer </li>
   <li><b> Business Analyst </li>
+  
   
 </ul>
 <hr />
